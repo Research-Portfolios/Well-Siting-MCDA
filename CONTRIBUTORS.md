@@ -1,14 +1,10 @@
 # Contributors
 
-Ehsan Nikfarjam and Mohsen Nikfarjam are equal co-authors with shared
-intellectual responsibility for the project. Both co-designed the framework;
-the roles below identify task leadership, not a division into principal and
-assistant.
+Ehsan Nikfarjam and Mohsen Nikfarjam contributed equally overall. Each role
+below, named as in the Contributor Roles Taxonomy (CRediT), was shared by both
+authors.
 
-| Author | Lead contribution | GitHub |
+| Author | Roles (CRediT) | GitHub |
 |---|---|---|
-| Ehsan Nikfarjam | Co-designed the MCDA framework; led the multi-criteria decision logic and criterion weighting; led drafting of the co-authored decision-oriented report | [@ehsannikfarjam](https://github.com/ehsannikfarjam) |
-| Mohsen Nikfarjam | Co-designed the MCDA framework; led hydrogeologic data processing and geospatial QA/QC; contributed the associated methods and findings to the co-authored report | [@mohsennikfarjam](https://github.com/mohsennikfarjam) |
-
-The 250-iteration Monte Carlo uncertainty propagation was executed and
-interpreted jointly. Both authors revised and approved the final report.
+| Ehsan Nikfarjam | Methodology; Software; Formal analysis; Visualization; Writing - original draft (each shared) | [@ehsannikfarjam](https://github.com/ehsannikfarjam) |
+| Mohsen Nikfarjam | Methodology; Software; Formal analysis; Visualization; Writing - original draft (each shared) | [@mohsennikfarjam](https://github.com/mohsennikfarjam) |

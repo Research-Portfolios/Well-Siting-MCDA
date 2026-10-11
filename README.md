@@ -6,7 +6,7 @@
 
 **Authors:** Ehsan Nikfarjam and Mohsen Nikfarjam
 
-*Equal co-authorship. Both authors share intellectual responsibility for the project; lead roles are described under [Attribution](#attribution).*
+*Equal co-authorship: Ehsan Nikfarjam and Mohsen Nikfarjam contributed equally overall; their roles are listed under [Attribution](#attribution).*
 
 **Date:** Spring 2025
 
@@ -45,7 +45,7 @@ The analysis was written up as a course technical report in consulting format, w
 | File | Description |
 |---|---|
 | `WellSiting_Analysis_Overview.ipynb` | Documented Jupyter notebook: full MCDA framework, criterion weighting, fatal-flaw screening, suitability scoring, and Monte Carlo uncertainty analysis with visualizations. Figures are embedded and render on GitHub without execution. |
-| `CONTRIBUTORS.md` | Contributors file: the co-authorship statement and a table of each author's lead contributions, with links to their GitHub profiles. |
+| `CONTRIBUTORS.md` | Contributors file: the equal-contribution statement and the authors' shared roles (CRediT), with links to their GitHub profiles. |
 
 ---
 
@@ -84,13 +84,12 @@ GitHub: [mohsennikfarjam](https://github.com/mohsennikfarjam)
 
 ## Attribution
 
-Ehsan Nikfarjam and Mohsen Nikfarjam are equal co-authors. Equal co-authorship reflects shared intellectual responsibility and approval of the work, while the paragraphs below identify the components each led.
+Ehsan Nikfarjam and Mohsen Nikfarjam contributed equally overall. Each role below, named as in the Contributor Roles Taxonomy (CRediT), was shared by both authors.
 
-**Ehsan Nikfarjam** co-designed the Spatial MCDA framework, led the multi-criteria decision logic and criterion weighting, and led drafting of the co-authored decision-oriented report.
-
-**Mohsen Nikfarjam** co-designed the Spatial MCDA framework, led the hydrogeologic data processing and geospatial quality assurance and quality control that the suitability scoring depends on, and contributed the associated methods and findings to the co-authored report.
-
-The 250-iteration Monte Carlo uncertainty propagation was executed and interpreted jointly. Both authors revised and approved the final report.
+- **Methodology** and **Software:** both authors developed the multi-criteria decision framework in Python.
+- **Formal analysis:** both authors implemented the 250-iteration Monte Carlo uncertainty analysis.
+- **Visualization:** both authors prepared the notebook and its figures.
+- **Writing - original draft:** both authors prepared the course report.
 
 **Credits**
 
