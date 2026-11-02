@@ -106,4 +106,5 @@ This repository does not yet have a licence; the authors will decide its terms. 
 
 Other work by the same authors:
 
+- [CMAQ-NO2-Emulator-Benchmark](https://github.com/Research-Portfolios/CMAQ-NO2-Emulator-Benchmark): deep-learning emulators of CMAQ daily mean surface NO<sub>2</sub> over the contiguous United States, 2015 to 2019 (a report not yet peer reviewed).
 - [Spatiotemporal-Exposure-Analysis](https://github.com/Research-Portfolios/Spatiotemporal-Exposure-Analysis): air pollution exposure disparities by race, ethnicity and historical redlining grade across the census blocks of the contiguous United States, 2000-2015 (two manuscripts in preparation).
